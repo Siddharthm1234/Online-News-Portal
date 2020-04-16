@@ -1,0 +1,23 @@
+
+body{
+	background-color: #000808  ;
+}
+.card{
+	width: 30%;
+	margin: 20px auto;
+	padding: 20px;
+	transition: transform 1s ease-in-out;
+}
+
+h1:hover {
+  background-color: red;
+}
+
+.rit{
+	transition: transform 1s ease-in-out;
+
+
+}
+.card.back{
+	background-color: white;
+}
